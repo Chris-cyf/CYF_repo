@@ -8,14 +8,6 @@ li {
   color:blue;
 }
 
-.test_padding {
-  display: flex;
-  width: 50vw;
-  border: 3px solid green;
-  justify-content: center;
-  align-items: center;
-  margin: 0 auto;
-}
 
 #centered_image_div {
   margin: 0 auto;
@@ -45,14 +37,24 @@ max-width: 50%;
   color:black;
 }
 
+.landmark_image {
+  border: 4px solid green;
+  max-width: 25vw;
+  height: auto;
+}
+
 .landmark_image img {
-  width:25%;
+  width:100%;
   height:auto;
+  display: block;
+  
 }
 
 h1 {
-  text-align: center;Arial, Helvetica, sans-serif
-  color:green;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: red;
+  color:blue;
   font-family:Arial, Times, Helvetica, sans-serif;
   font-size:4vw;
 } 
