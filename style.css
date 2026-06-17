@@ -1,0 +1,37 @@
+
+body {
+  background-color:yellow;
+}
+
+li {
+  font-weight:bold;
+  color:blue;
+}
+
+#centered_image {
+  max-width:700px;
+  margin:auto;
+}
+
+.list_notes {
+  font-weight:normal;
+  color:black;
+}
+
+.landmark_image img {
+  width:25%;
+  height:auto;
+}
+
+h1 {
+  text-align: center;Arial, Helvetica, sans-serif
+  color:green;
+  font-family:Arial, Times, Helvetica, sans-serif;
+  font-size:4vw;
+} 
+
+h4 {
+  color:red;
+  font-family:Arial, Times, Helvetica, sans-serif;
+  font-size:20px
+  }
