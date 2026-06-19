@@ -32,3 +32,13 @@ Here are the main files that make up this repository:
 - **The Box Model**: Applying borders, margins, and padding to control spacing.
 - **Alignment**: Centering text and images for a balanced layout.
 
+## Live Demo
+You can view the live site deployed via GitHub Pages here:
+
+`## Live Demo
+
+You can view the live site deployed via GitHub Pages here:
+
+Check out the [live demo here](https://chris-cyf.github.io/cyf_chuk_repo/)
+
+
